@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 I am an Embedded Software Engineer passionate about the intersection of **IoT, Space Technologies, and Environmental Sustainability**. I specialize in low-level firmware development and enjoy building systems that connect the physical world to actionable data.
 
